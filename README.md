@@ -59,25 +59,25 @@
 
    3. Comando
    ~~~
-   mkdir web-tunombre-apellidos && cd web-tunombre-apellidos
+   sudo npm install -g vite serve
    ~~~
    <img src="./images/img16.jpg" alt="img16"/>
 
    4. Comando
    ~~~
-   npm init vite@latest .
+   mkdir web-ivan-balderas && cd web-ivan-balderas
    ~~~
    <img src="./images/img17.jpg" alt="img17"/>
 
    5. Comando
    ~~~
-   npm install
+   npm init vite@latest .
    ~~~
    <img src="./images/img18.jpg" alt="img18"/>
 
    6. Comando
    ~~~
-   npm run build
+   npm install
    ~~~
    <img src="./images/img19.jpg" alt="img19"/>
 
@@ -98,12 +98,13 @@
 
 # Security Groups
 1. Linux
-
    1. Entrada:
       <img src="./images/img23.png" alt="img23"/>
 
    2. Salida:
+
       <img src="./images/img24.png" alt="img24"/>
+
 2. Windows
    1. Entrada:
       <img src="./images/img25.png" alt="img25"/>
