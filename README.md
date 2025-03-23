@@ -113,3 +113,9 @@
       <img src="./images/img26.png" alt="img26"/>
 
 # Pull Request
+
+   1. He realizado el Pull Request con Álvaro, le he modificado el index.html.
+   <img src="./images/img27.png" alt="img27"/>
+
+   2. He enviado el Pull Request con los detalles y cambios en la descripción de este Pull Request.
+   <img src="./images/img28.png" alt="img28"/>
